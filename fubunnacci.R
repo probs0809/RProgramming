@@ -1,3 +1,4 @@
+n <- 10;
 Fibonacci <- function(n) {
     x <- c(0,1)
     while (length(x) < n) {
